@@ -1,1 +1,1 @@
-<img align="center" src="https://api.esex.services/api/image?user=1442791669220249631&bgColor=052100&borderWidth=4&borderColor=ffffff22&activityImageRadius=20&activityImageBorder=4,ffffff22&progressBar=true&progressBarColor=70d8dd&progressBarBg=2190a3">
+<img align="center" src="https://api.esex.services/api/image?user=1442791669220249631&bgColor=00000000&borderColor=ffffff22&borderWidth=4">
