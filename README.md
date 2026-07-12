@@ -1,1 +1,2 @@
-<img align="center" src="https://api.esex.services/api/image?user=1442791669220249631&bgColor=00000000&borderColor=ffffff22&borderWidth=4">
+<img align="center" src="https://i.ibb.co/wZ82btGn/Screenshot-2026-07-12-113206.png">
+<p align="center">all of this was made for dahood btw</p>
